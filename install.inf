@@ -1,0 +1,17 @@
+[info]
+title=sidebar_problem
+desc=(Fill the description)
+type=cudatext-plugin
+subdir=cuda_sidebar_problem
+homepage=(Fill the GitHub repo URL)
+
+[item2]
+section=commands
+caption=_Print active panel
+method=print_active
+
+
+[bottombar1]
+hint=Fake
+icon={dir}/terminal.png
+method=open
